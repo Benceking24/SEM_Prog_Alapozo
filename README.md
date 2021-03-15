@@ -38,3 +38,5 @@ __Új projekt létrehozás:__
   }
 ]
 ```
+
+Előadás jegyzet: https://docs.google.com/document/d/19nR37T6P58_G9i6ntlQ8AjiTfH-CwCNGmH1gLeI-UlU/edit?usp=sharing
