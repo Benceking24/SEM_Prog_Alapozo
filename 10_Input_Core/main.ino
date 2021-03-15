@@ -8,8 +8,8 @@
 ************************************************************************************************/
 
 /*Compiler output:
-Sketch uses 3936 bytes (13%) of program storage space. Maximum is 28672 bytes.
-Global variables use 151 bytes (5%) of dynamic memory, leaving 2409 bytes for local variables. Maximum is 2560 bytes.
+Sketch uses 4030 bytes (14%) of program storage space. Maximum is 28672 bytes.
+Global variables use 149 bytes (5%) of dynamic memory, leaving 2411 bytes for local variables. Maximum is 2560 bytes.
 */
 
 void setup(){

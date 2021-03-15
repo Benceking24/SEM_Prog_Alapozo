@@ -3,7 +3,7 @@
 *
 * Készítette:   Fábián Bence
 * Módosítva:    2021/03/15
-* Célja: Atmega32u4 Arduino könyvtár használatával gombal ledet kapcsolni pergésmentesen
+* Célja: Atmega32u4 Arduino könyvtár használatával gombal LED-et kapcsolni pergésmentesen
 * LED ellenállással a 3-as számú lábon; Gomb belső ellenállást használva a 2-es számú lábon
 ************************************************************************************************/
 

@@ -3,13 +3,13 @@
 *
 * Készítette:   Fábián Bence
 * Módosítva:    2021/03/15
-* Célja: Atmega32u4 AVR regiszter utasítások használatával gombal LED-et kapcsolni
-* LED ellenállással a 3-as számú (PD0) lábon; Gomb belső ellenállást használva a 2-es számú (PD1) lábon
+* Célja: Atmega32u4 AVR regiszter utasítások használatával LED-et animálni potméter állása alapján
+* LED ellenállással a 3-as számú (PD0) lábon; Potméter A2 (PF5) számú lábon
 ************************************************************************************************/
 
 /*COMPILER OUTPUT:
-Sketch uses 322 bytes (1%) of program storage space. Maximum is 28672 bytes.
-Global variables use 2 bytes (0%) of dynamic memory, leaving 2558 bytes for local variables. Maximum is 2560 bytes.
+Sketch uses 770 bytes (2%) of program storage space. Maximum is 28672 bytes.
+Global variables use 4 bytes (0%) of dynamic memory, leaving 2556 bytes for local variables. Maximum is 2560 bytes.
 */
 
 #define F_CPU 16000000L

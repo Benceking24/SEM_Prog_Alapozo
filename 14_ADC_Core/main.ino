@@ -3,8 +3,8 @@
 *
 * Készítette:   Fábián Bence
 * Módosítva:    2021/03/15
-* Célja: Atmega32u4 Arduino könyvtár használatával LED-et animálni
-* LED ellenállással a 3-as számú lábon
+* Célja: Atmega32u4 Arduino könyvtár használatával LED-et animálni a potméter állása alapján
+* LED ellenállással a 3-as számú lábon, Potméter az 20-as (A2) számú lábon
 ************************************************************************************************/
 
 /*Compiler output:

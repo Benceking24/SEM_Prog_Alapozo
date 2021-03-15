@@ -3,7 +3,7 @@
 *
 * Készítette:   Fábián Bence
 * Módosítva:    2021/03/15
-* Célja: Atmega32u4 AVR regiszter utasítások használatával gombal LED-et kapcsolni
+* Célja: Atmega32u4 AVR regiszter utasítások használatával gombal LED-et kapcsolni pergésmentesen
 * LED ellenállással a 3-as számú (PD0) lábon; Gomb belső ellenállást használva a 2-es számú (PD1) lábon
 ************************************************************************************************/
 
