@@ -1,5 +1,7 @@
 # SEM Digitális rendszer alapok és beágyazott C programozás
 
+__Előadás felvétel:__ https://youtu.be/7lFY-UZmM6I
+
 __Fejlesztő környzete telepítése:__
 * Arduino IDE telepítése (https://www.arduino.cc/en/software), opcionálisan fejlesztőlap leírásának és könyvtárak telepítése
 * VsCode telepítése (https://code.visualstudio.com/download)
@@ -38,3 +40,5 @@ __Új projekt létrehozás:__
   }
 ]
 ```
+
+Előadás jegyzet: https://docs.google.com/document/d/19nR37T6P58_G9i6ntlQ8AjiTfH-CwCNGmH1gLeI-UlU/edit?usp=sharing
